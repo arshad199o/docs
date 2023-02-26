@@ -160,6 +160,7 @@ You can use gems from {% data variables.product.prodname_registry %} much like y
   $ gem install GEM_NAME --version "0.1.1"
   ```
 
-## Further reading
+## Further reading shahillister
+
 
 - "[AUTOTITLE](/packages/learn-github-packages/deleting-and-restoring-a-package)"
